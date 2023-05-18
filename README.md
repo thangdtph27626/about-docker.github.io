@@ -7,7 +7,7 @@
 - Docker là một nền tảng mã nguồn mở cho phép các nhà phát triển xây dựng, triển khai, chạy, cập nhật và quản lý containers—standardized 
 - Docker làm cho  quá trình container hóa  nhanh hơn, dễ dàng hơn và an toàn hơn
 - cho phép tạo các môi trường độc lập và tách biệt để khởi chạy và phát triển ứng dụng và môi trường này được gọi là container.
-- 
+
 # Cách thức hoạt động của container?
 
 - Docker hoạt động bằng cách cung cấp phương thức tiêu chuẩn để chạy mã của bạn. 
